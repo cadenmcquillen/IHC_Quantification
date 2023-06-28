@@ -1,5 +1,5 @@
 ## DAB-Quant Pipeline
-Script to quantify proportion of brown pixels from IHC staining
+Script to quantify proportion of brown pixels from IHC staining using https://github.com/sarafridov/DAB-quant
 
 ### Create conda environment
 ` conda env create -f dab_quant.yml `

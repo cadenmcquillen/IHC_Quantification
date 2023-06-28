@@ -6,5 +6,5 @@ Script to quantify proportion of brown pixels from IHC staining
 
 ### Run script
 
-Set `DIR` to path of your tiff images
+Set `DIR` to path of your tiff images \n
 `./convert_tiffs.sh `

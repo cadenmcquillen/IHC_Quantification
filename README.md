@@ -6,5 +6,6 @@ Script to quantify proportion of brown pixels from IHC staining
 
 ### Run script
 
-1. Set `DIR` to path of your tiff images
-2. `./convert_tiffs.sh `
+1. Set `ImageDIR` to path of your tiff images
+2. Set `DabQ_DIR` to path of DAB-quant package
+3. `./convert_tiffs.sh `
